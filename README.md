@@ -1,2 +1,2 @@
 # guess-the-word
-JavaScript project to create a game for users to guess a word.
+A game where players have 8 chances to guess a word.
